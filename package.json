@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_hue",
+  "version": "1.0.0",
+  "description": "This is an example app for controlling node js from hue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpolfer/nodejs_hue.git"
+  },
+  "keywords": [
+    "nodejs",
+    "philips-hue"
+  ],
+  "author": "jpolfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpolfer/nodejs_hue/issues"
+  },
+  "homepage": "https://github.com/jpolfer/nodejs_hue#readme",
+  "dependencies": {
+    "node-hue-api": "^2.4.2"
+  }
+}
