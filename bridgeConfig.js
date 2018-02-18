@@ -22,8 +22,3 @@ api.config(function(err, config) {
     if (err) throw err;
     displayResult(config);
 });
-// using getConfig() alias
-api.getConfig(function(err, config) {
-    if (err) throw err;
-    displayResult(config);
-});
